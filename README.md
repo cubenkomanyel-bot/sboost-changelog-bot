@@ -1,1 +1,0 @@
-# sboost-changelog-bot
